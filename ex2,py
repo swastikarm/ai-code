@@ -6,3 +6,4 @@ for i in range(n):
     total = total + num
 
 print("Sum =", total)
+print("hello world")
